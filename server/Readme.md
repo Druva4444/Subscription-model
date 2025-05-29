@@ -43,7 +43,7 @@ npm install
 
 ### 🔹 Signup / Login / Logout
 
-Located in `authController.js`:
+Located in `controllers/auth.controller.js`:
 
 * `POST api/auth/signup` - Registers a new user
 * `POST api/auth/login` - Authenticates a user and sets a JWT in cookies
